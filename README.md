@@ -12,8 +12,6 @@
 - **Prevention of Proxy Attendance:** Verifies identities in real time to prevent fraud.
    |
 ---
-|
----
    |
    ## GUI 
    - **Connection :** Connects to a MySQL database.
