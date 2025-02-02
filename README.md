@@ -1,4 +1,4 @@
-Facial Recognition Attendance System
+# Facial Recognition Attendance System
 
 ## Overview
 This project is a **Facial Recognition-based Attendance System** that helps track student attendance automatically. The system uses **Tkinter** for the graphical user interface, **OpenCV** and **face_recognition** for facial recognition, and **MySQL** for database management.
