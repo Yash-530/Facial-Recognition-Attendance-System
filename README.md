@@ -18,7 +18,9 @@
    - **REAL-TIME :** Retrieves and displays data dynamically.
    - **SUB-SECTIONS :** Provides a dropdown menu to select different tables.
    - **DISPLAY :** Uses Tkinter's Treeview widget for tabular display.
-
+   |
+---
+   |
 ## System Requirements
 - Python 3.x
 - OpenCV (`cv2`)
